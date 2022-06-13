@@ -2,7 +2,6 @@
 
 - 🔭 No momento estou a procura de uma oportunidade!
 - 🌱 Aperfeiçoando meu HTML e CSS e iniciando meus estudos com JavaScript e Python...
-- ⚡ Fun fact: ...
 
 ##
 <div align="center">
